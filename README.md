@@ -21,7 +21,7 @@ Gunakan Virtual Environment untuk menjaga kestabilan dependensi sistem
 python -m venv venv
 
 # Aktifkan Virtual Environment ( Windows )
-source venv/Scripts/activate
+venv/Scripts/activate
 
 # Aktifkan Virtual Environment ( MacOS/Linux )
 source venv/bin/activate
@@ -32,3 +32,14 @@ Pasang semua dependensi yang diperlukan melalui file requirements.txt
 ```bash
 pip install -r requirements.txt
 ```
+### 5. Menjalankan Program
+Pilih menjalankn Skrip Python (.py) atau Jupyter Notebook (.ipynb)
+
+A. Menjalankan Skrip Python
+```bash
+python cnn-classify.py
+```
+
+B. Menjalankan Jupyter Notebook
+Daftarkan Kernel ke Notebook (pastikan menggunakan Virtual Environment yang sudah dibuat),
+kemudian jalankan kode satu per satu
