@@ -41,5 +41,7 @@ python cnn-classify.py
 ```
 
 B. Menjalankan Jupyter Notebook
+```bash
 Daftarkan Kernel ke Notebook (pastikan menggunakan Virtual Environment yang sudah dibuat),
 kemudian jalankan kode satu per satu
+```
