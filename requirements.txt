@@ -1,5 +1,14 @@
+# Data Processing
 numpy
 pandas
 scikit-learn
+
+# Visualization
 matplotlib
-tensorflow-cpu==2.20.0
+
+# Deeplearning (CNN)
+tensorflow-cpu==2.10.0
+
+# Jupyter Notebook Support
+ipykernel
+notebook
